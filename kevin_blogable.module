@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Kevin Blogable feature.
+ */
+
+include_once 'kevin_blogable.features.inc';
